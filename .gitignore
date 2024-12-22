@@ -52,3 +52,4 @@ local.properties
 /.idea/
 /*.iml
 /*.log
+.history/
